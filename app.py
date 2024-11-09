@@ -13,9 +13,9 @@ profile_pic = current_dir / "assets" / "profile-pic.jpg"
 
 
 # ---GENERAL SETTINGS ---
-PAGE_TITLE = "DIGITAL CV | HAROLD TANQUIZON"
+PAGE_TITLE = "DIGITAL CV | HAROLD C. TANQUIZON"
 PAGE_ICON = ":wave:"
-NAME = "HAROLD TANQUIZON"
+NAME = "HAROLD C. TANQUIZON"
 DESCRIPTION = """
 Data Analysist, assisting enterprises by supporting data-driven decision-amking.
 """
